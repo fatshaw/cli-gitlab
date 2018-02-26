@@ -1,3 +1,10 @@
+## Description:  
+encapsulate gitinspector and cli-gitlab to statistic codes in all projects in gitlab that meet specific conditions  
+
+## Dependency
+ gitinspector:https://github.com/ejwa/gitinspector  
+ cli-gitlab
+
 cli-gitlab
 ===========
 Check [node-gitlab](https://github.com/moul/node-gitlab)
